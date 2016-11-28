@@ -1,0 +1,4 @@
+﻿  ex7-8.c
+d:\learn c\ex7-8\ex7-8\ex7-8.c(17): error C2057: 应输入常量表达式
+d:\learn c\ex7-8\ex7-8\ex7-8.c(17): error C2466: 不能分配常量大小为 0 的数组
+d:\learn c\ex7-8\ex7-8\ex7-8.c(17): error C2133: “Fibonacci”: 未知的大小

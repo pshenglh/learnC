@@ -1,0 +1,4 @@
+﻿  pra8-3.c
+d:\learn c\pra8-3\pra8-3\pra8-3.c(18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  pra8-3.vcxproj -> D:\learn C\pra8-3\Debug\pra8-3.exe
+  pra8-3.vcxproj -> D:\learn C\pra8-3\Debug\pra8-3.pdb (Full PDB)

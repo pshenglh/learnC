@@ -1,0 +1,4 @@
+﻿  pra4-4.c
+d:\learn c\pra4-4\pra4-4\pra4-4.c(9): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  pra4-4.vcxproj -> D:\learn C\pra4-4\Debug\pra4-4.exe
+  pra4-4.vcxproj -> D:\learn C\pra4-4\Debug\pra4-4.pdb (Full PDB)

@@ -1,0 +1,7 @@
+﻿  ex4-5.c
+d:\learn c\ex4-5\ex4-5\ex4-5.c(11): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\learn c\ex4-5\ex4-5\ex4-5.c(14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\learn c\ex4-5\ex4-5\ex4-5.c(17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\learn c\ex4-5\ex4-5\ex4-5.c(20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  ex4-5.vcxproj -> D:\learn C\ex4-5\Debug\ex4-5.exe
+  ex4-5.vcxproj -> D:\learn C\ex4-5\Debug\ex4-5.pdb (Full PDB)

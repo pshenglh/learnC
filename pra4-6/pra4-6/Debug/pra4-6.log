@@ -1,0 +1,4 @@
+﻿  pra4-5.c
+d:\learn c\pra4-6\pra4-6\pra4-5.c(5): warning C4305: “初始化”: 从“double”到“float”截断
+  pra4-6.vcxproj -> D:\learn C\pra4-6\Debug\pra4-6.exe
+  pra4-6.vcxproj -> D:\learn C\pra4-6\Debug\pra4-6.pdb (Full PDB)

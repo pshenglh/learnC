@@ -1,0 +1,4 @@
+﻿  pra4-7.c
+d:\learn c\pra4-7\pra4-7\pra4-7.c(7): warning C4305: “=”: 从“double”到“float”截断
+  pra4-7.vcxproj -> D:\learn C\pra4-7\Debug\pra4-7.exe
+  pra4-7.vcxproj -> D:\learn C\pra4-7\Debug\pra4-7.pdb (Full PDB)

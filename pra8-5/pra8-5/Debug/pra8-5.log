@@ -1,0 +1,6 @@
+﻿  pra8-5.c
+d:\learn c\pra8-5\pra8-5\pra8-5.c(18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\learn c\pra8-5\pra8-5\pra8-5.c(14): warning C4305: “初始化”: 从“double”到“const float”截断
+d:\learn c\pra8-5\pra8-5\pra8-5.c(25): warning C4305: “函数”: 从“double”到“float”截断
+  pra8-5.vcxproj -> D:\learn C\pra8-5\Debug\pra8-5.exe
+  pra8-5.vcxproj -> D:\learn C\pra8-5\Debug\pra8-5.pdb (Full PDB)

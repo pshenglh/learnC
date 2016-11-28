@@ -1,0 +1,4 @@
+﻿  ex4-1.c
+d:\learn c\ex4-1\ex4-1\ex4-1.c(6): warning C4305: “初始化”: 从“double”到“float”截断
+  ex4-1.vcxproj -> D:\learn C\ex4-1\Debug\ex4-1.exe
+  ex4-1.vcxproj -> D:\learn C\ex4-1\Debug\ex4-1.pdb (Full PDB)
