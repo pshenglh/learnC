@@ -1,0 +1,5 @@
+﻿  pra10-12.c
+d:\learn c\pra10-12\pra10-12\pra10-12.c(19): warning C4305: “=”: 从“double”到“float”截断
+d:\learn c\pra10-12\pra10-12\pra10-12.c(29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  pra10-12.vcxproj -> D:\learn C\pra10-12\Debug\pra10-12.exe
+  pra10-12.vcxproj -> D:\learn C\pra10-12\Debug\pra10-12.pdb (Full PDB)

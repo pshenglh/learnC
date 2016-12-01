@@ -5,8 +5,12 @@ void substring(char source[], int start, int count, char result[])
 {
 	int i;
 	
-	for (i = 0; i < count; ++i)
-		result[i] = source[start + i];
+	for (i = 0; i < count; ++i) {
+		if (source[start + i] == '\0')
+			break;
+		else
+			result[i] = source[start + i];
+	}
 
 	result[i] = '\0';
 }

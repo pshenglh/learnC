@@ -1,0 +1,4 @@
+﻿  pra10-8.c
+d:\learn c\pra10-8\pra10-8\pra10-8.c(90): warning C4101: “i”: 未引用的局部变量
+  pra10-8.vcxproj -> D:\learn C\pra10-8\Debug\pra10-8.exe
+  pra10-8.vcxproj -> D:\learn C\pra10-8\Debug\pra10-8.pdb (Full PDB)
